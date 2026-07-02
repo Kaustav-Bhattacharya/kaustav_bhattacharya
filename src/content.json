@@ -57,14 +57,14 @@
       { "key": "github", "val": "@kaustav01", "href": "#" }
     ],
     "location": "Delhi NCR, India",
+  "status": "Open to opportunities",
+     "timezone": "IST (UTC+5:30)"
     "resume": {
       "label": "resume",
       "val": "Resume.pdf ↓",
       "href": "/Resume_Kaustav_Bhattacharya.pdf",
       "filename": "Resume_Kaustav_Bhattacharya.pdf"
-    },
-  "status": "Open to opportunities",
-     "timezone": "IST (UTC+5:30)"
+    }
   },
   "footer": {
     "copyright": "© 2026 Kaustav Bhattacharya",
