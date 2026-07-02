@@ -19,7 +19,7 @@ export function About() {
             {after}
           </p>
 
-          <TerminalCard title={content.about.terminalTitle} className="text-[12.5px]">
+          <TerminalCard title={content.about.terminalTitle} className="text-[12.5px] w-full">
             <div className="flex flex-col gap-2.5 px-4 py-3.5">
               {STACK.map((row) => (
                 <div key={row.key} className="flex gap-2.5">
