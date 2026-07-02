@@ -76,6 +76,7 @@ export function Contact() {
                 />
               ))}
               <ContactRow label="location" value={content.contact.location} />
+              <ContactRow label="status" value={content.contact.status}/>
               <ContactRow
                 label={content.contact.resume.label}
                 value={content.contact.resume.val}
