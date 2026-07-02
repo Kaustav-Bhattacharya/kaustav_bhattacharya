@@ -5,6 +5,7 @@ import { ThemeProvider } from "@/components/theme/theme-provider";
 import { Loader } from "@/components/loader";
 import { Grain } from "@/components/grain";
 import { PhysicsOverlay } from "@/components/physics-overlay";
+import { Analytics } from "@vercel/analytics/next";
 import content from "@/content.json";
 
 const spaceGrotesk = Space_Grotesk({
@@ -54,6 +55,7 @@ export default function RootLayout({
             <PhysicsOverlay />
           </Loader>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
