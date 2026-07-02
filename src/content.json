@@ -13,17 +13,17 @@
     ]
   },
   "hero": {
-    "badge": "AVAILABLE FOR WORK — DELHI NCR",
+    "badge": "OPEN TO OPPORTUNITIES — DELHI NCR",
     "headlineTokens": [
       { "text": "Frontend" },
       { "text": "Engineer" },
       { "break": true },
       { "text": "building", "dim": true },
       { "text": "fast,", "dim": true },
-      { "text": "considered", "dim": true },
-      { "text": "interfaces.", "dim": true }
+      { "text": "web", "dim": true },
+      { "text": "applications.", "dim": true }
     ],
-    "subtext": "I build with React, Next.js and TypeScript — focused on performance, clean component architecture, and interfaces that hold up at scale.",
+    "subtext": "I enjoy building modern web applications with React, Next.js, and TypeScript—from dashboards and SaaS platforms to production interfaces—focused on performance, maintainability, and accessibility.",
     "buttons": [
       { "label": "View work", "href": "#work", "variant": "primary" },
       { "label": "Get in touch", "href": "#contact", "variant": "ghost" }
