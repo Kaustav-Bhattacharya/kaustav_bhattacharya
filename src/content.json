@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Kaustav Bhattacharya — Frontend Engineer",
+    "description": "Frontend engineer building fast, considered interfaces with React, Next.js and TypeScript."
+  },
+  "header": {
+    "logoText": "kaustav",
+    "logoSuffix": ".dev",
+    "navLinks": [
+      { "id": "about", "label": "About" },
+      { "id": "work", "label": "Work" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "hero": {
+    "badge": "AVAILABLE FOR WORK — DELHI NCR",
+    "headlineTokens": [
+      { "text": "Frontend" },
+      { "text": "Engineer" },
+      { "break": true },
+      { "text": "building", "dim": true },
+      { "text": "fast,", "dim": true },
+      { "text": "considered", "dim": true },
+      { "text": "interfaces.", "dim": true }
+    ],
+    "subtext": "I build with React, Next.js and TypeScript — focused on performance, clean component architecture, and interfaces that hold up at scale.",
+    "buttons": [
+      { "label": "View work", "href": "#work", "variant": "primary" },
+      { "label": "Get in touch", "href": "#contact", "variant": "ghost" }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About",
+    "bio": {
+      "before": "I'm a frontend engineer who likes taking systems from ",
+      "strong": "\"it works on my machine\"",
+      "after": " to production, at scale. Most of my time goes into React and Next.js codebases where correctness, latency, and maintainability actually matter — real-time dashboards, multi-tenant platforms, and interfaces that get hammered by thousands of concurrent users."
+    },
+    "terminalTitle": "stack.sh",
+    "stack": [
+      { "key": "stack", "val": "React · Next.js · TypeScript" },
+      { "key": "motion", "val": "Framer Motion" },
+      { "key": "realtime", "val": "WebSockets · WebRTC" },
+      { "key": "based in", "val": "Delhi NCR, India" }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Contact",
+    "heading": "Looking for a frontend engineer who cares about the details?",
+    "subtext": "Open to full-time roles and select contract work. Fastest reply is over email.",
+    "terminalTitle": "contact.sh",
+    "links": [
+      { "key": "email", "val": "bhattacharyar64@gmail.com", "href": "mailto:bhattacharyar64@gmail.com" },
+      { "key": "linkedin", "val": "in/kaustav01bhattacharya", "href": "https://www.linkedin.com/in/kaustav01bhattacharya/" },
+      { "key": "github", "val": "@kaustav01", "href": "#" }
+    ],
+    "location": "Delhi NCR, India",
+    "resume": {
+      "label": "resume",
+      "val": "download PDF ↓",
+      "href": "/Resume_Kaustav_Bhattacharya.pdf",
+      "filename": "Resume_Kaustav_Bhattacharya.pdf"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Kaustav Bhattacharya",
+    "tagline": "built with intent, not templates."
+  }
+}
