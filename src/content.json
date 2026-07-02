@@ -34,20 +34,22 @@
     "bio": {
       "before": "I'm a frontend engineer who likes taking systems from ",
       "strong": "\"it works on my machine\"",
-      "after": " to production, at scale. Most of my time goes into React and Next.js codebases where correctness, latency, and maintainability actually matter — real-time dashboards, multi-tenant platforms, and interfaces that get hammered by thousands of concurrent users."
+      "after": " to production. Most of my work involves building React and Next.js applications where performance, maintainability, and user experience matter—shipping dashboards, SaaS platforms, and internal tools used every day."
     },
     "terminalTitle": "stack.sh",
     "stack": [
-      { "key": "stack", "val": "React · Next.js · TypeScript" },
-      { "key": "motion", "val": "Framer Motion" },
-      { "key": "realtime", "val": "WebSockets · WebRTC" },
-      { "key": "based in", "val": "Delhi NCR, India" }
-    ]
+  { "key": "frontend", "val": "React · Next.js · SvelteKit · Astro" },
+  { "key": "language", "val": "TypeScript" },
+  { "key": "backend", "val": "Node.js · GraphQL · PostgreSQL" },
+  { "key": "realtime", "val": "WebRTC · Pusher" },
+  { "key": "testing", "val": "Playwright · Jest" },
+  { "key": "ai", "val": "Claude Code · Cursor" }
+]
   },
   "contact": {
     "sectionLabel": "Contact",
-    "heading": "Looking for a frontend engineer who cares about the details?",
-    "subtext": "Open to full-time roles and select contract work. Fastest reply is over email.",
+    "heading": "Let's build something great together!",
+    "subtext": "Open to full-time opportunities and select contract work. The fastest way to reach me is by email.",
     "terminalTitle": "contact.sh",
     "links": [
       { "key": "email", "val": "bhattacharyar64@gmail.com", "href": "mailto:bhattacharyar64@gmail.com" },
@@ -57,10 +59,12 @@
     "location": "Delhi NCR, India",
     "resume": {
       "label": "resume",
-      "val": "download PDF ↓",
+      "val": "Resume.pdf ↓",
       "href": "/Resume_Kaustav_Bhattacharya.pdf",
       "filename": "Resume_Kaustav_Bhattacharya.pdf"
-    }
+    },
+  "status": "Open to opportunities",
+     "timezone": "IST (UTC+5:30)" ,
   },
   "footer": {
     "copyright": "© 2026 Kaustav Bhattacharya",
